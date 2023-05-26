@@ -1,0 +1,4 @@
+this is text
+text
+learning to use git bash
+text file
